@@ -14,4 +14,4 @@ Aplasma_Bcells.JPG - Example image from positive test.
 
 ## References
 
-Hertaeg, M. J., Kesarwani, Mcleish, Walker, Corrie and Garnier
+Hertaeg, M. J., Kesarwani, Mcleish, Walker, Corrie and Garnier. Wash-free Paper Diagnostics for the Rapid Detection of Blood Type Antibodies
