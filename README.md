@@ -9,7 +9,7 @@ blood_stain_analysis.m - Performs analysis
 
 Oplasma_Ocells.JPG - Example image from negative test.
 
-Oplasma_Ocells.JPG - Example image from positive test.
+Aplasma_Bcells.JPG - Example image from positive test.
 
 
 ## References
